@@ -132,6 +132,10 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 #### Santral Çözümler
 - http://bulutfon.com
 
+#### Geri Bildirim sistemleri
+- https://usersnap.com/
+- https://uservoice.com/
+
 #### Sanal Pos & Ödeme Entegrasyonları
 - http://www.payu.com.tr
 - https://www.iyzico.com/
